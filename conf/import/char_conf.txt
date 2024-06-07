@@ -1,0 +1,10 @@
+userid: deonisiu
+passwd: deonisiu
+login_ip: 127.0.0.1
+char_ip: 127.0.0.1
+
+char_port: 6121
+login_port: 6900
+
+wisp_server_name: MyServer
+server_name: mYrAthena
